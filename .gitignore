@@ -1,4 +1,5 @@
 Docs
 .DS_Store
 .vscode
+.class.
 *.docx
